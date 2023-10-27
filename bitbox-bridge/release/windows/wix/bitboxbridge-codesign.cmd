@@ -1,1 +1,0 @@
-bitboxbridge-codesign-impl.cmd %*
